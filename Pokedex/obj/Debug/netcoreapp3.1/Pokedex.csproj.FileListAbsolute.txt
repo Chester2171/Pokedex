@@ -1,0 +1,76 @@
+C:\Users\Cody Chester\source\repos\Pokedex\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Cody Chester\source\repos\Pokedex\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Cody Chester\source\repos\Pokedex\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Cody Chester\source\repos\Pokedex\bin\Debug\netcoreapp3.1\Pokedex.exe
+C:\Users\Cody Chester\source\repos\Pokedex\bin\Debug\netcoreapp3.1\Pokedex.deps.json
+C:\Users\Cody Chester\source\repos\Pokedex\bin\Debug\netcoreapp3.1\Pokedex.runtimeconfig.json
+C:\Users\Cody Chester\source\repos\Pokedex\bin\Debug\netcoreapp3.1\Pokedex.runtimeconfig.dev.json
+C:\Users\Cody Chester\source\repos\Pokedex\bin\Debug\netcoreapp3.1\Pokedex.dll
+C:\Users\Cody Chester\source\repos\Pokedex\bin\Debug\netcoreapp3.1\Pokedex.pdb
+C:\Users\Cody Chester\source\repos\Pokedex\bin\Debug\netcoreapp3.1\Pokedex.Views.dll
+C:\Users\Cody Chester\source\repos\Pokedex\bin\Debug\netcoreapp3.1\Pokedex.Views.pdb
+C:\Users\Cody Chester\source\repos\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.csprojAssemblyReference.cache
+C:\Users\Cody Chester\source\repos\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.AssemblyInfoInputs.cache
+C:\Users\Cody Chester\source\repos\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.AssemblyInfo.cs
+C:\Users\Cody Chester\source\repos\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.csproj.CoreCompileInputs.cache
+C:\Users\Cody Chester\source\repos\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Cody Chester\source\repos\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.RazorAssemblyInfo.cache
+C:\Users\Cody Chester\source\repos\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.RazorAssemblyInfo.cs
+C:\Users\Cody Chester\source\repos\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.TagHelpers.input.cache
+C:\Users\Cody Chester\source\repos\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.TagHelpers.output.cache
+C:\Users\Cody Chester\source\repos\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.RazorCoreGenerate.cache
+C:\Users\Cody Chester\source\repos\Pokedex\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Cody Chester\source\repos\Pokedex\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Cody Chester\source\repos\Pokedex\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Cody Chester\source\repos\Pokedex\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Cody Chester\source\repos\Pokedex\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Cody Chester\source\repos\Pokedex\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Cody Chester\source\repos\Pokedex\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Cody Chester\source\repos\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.RazorTargetAssemblyInfo.cache
+C:\Users\Cody Chester\source\repos\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.RazorTargetAssemblyInfo.cs
+C:\Users\Cody Chester\source\repos\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.Views.pdb
+C:\Users\Cody Chester\source\repos\Pokedex\obj\Debug\netcoreapp3.1\staticwebassets\Pokedex.StaticWebAssets.Manifest.cache
+C:\Users\Cody Chester\source\repos\Pokedex\obj\Debug\netcoreapp3.1\staticwebassets\Pokedex.StaticWebAssets.xml
+C:\Users\Cody Chester\source\repos\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.dll
+C:\Users\Cody Chester\source\repos\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.pdb
+C:\Users\Cody Chester\source\repos\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.genruntimeconfig.cache
+C:\Users\Cody Chester\source\repos\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.csproj.CopyComplete
+C:\Users\Cody Chester\source\repos\Pokedex\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Chest\Documents\Visual Studio 2019\Repository\Pokedex\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Chest\Documents\Visual Studio 2019\Repository\Pokedex\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Chest\Documents\Visual Studio 2019\Repository\Pokedex\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Chest\Documents\Visual Studio 2019\Repository\Pokedex\bin\Debug\netcoreapp3.1\Pokedex.exe
+C:\Users\Chest\Documents\Visual Studio 2019\Repository\Pokedex\bin\Debug\netcoreapp3.1\Pokedex.deps.json
+C:\Users\Chest\Documents\Visual Studio 2019\Repository\Pokedex\bin\Debug\netcoreapp3.1\Pokedex.runtimeconfig.json
+C:\Users\Chest\Documents\Visual Studio 2019\Repository\Pokedex\bin\Debug\netcoreapp3.1\Pokedex.runtimeconfig.dev.json
+C:\Users\Chest\Documents\Visual Studio 2019\Repository\Pokedex\bin\Debug\netcoreapp3.1\Pokedex.dll
+C:\Users\Chest\Documents\Visual Studio 2019\Repository\Pokedex\bin\Debug\netcoreapp3.1\Pokedex.pdb
+C:\Users\Chest\Documents\Visual Studio 2019\Repository\Pokedex\bin\Debug\netcoreapp3.1\Pokedex.Views.dll
+C:\Users\Chest\Documents\Visual Studio 2019\Repository\Pokedex\bin\Debug\netcoreapp3.1\Pokedex.Views.pdb
+C:\Users\Chest\Documents\Visual Studio 2019\Repository\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.csprojAssemblyReference.cache
+C:\Users\Chest\Documents\Visual Studio 2019\Repository\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.AssemblyInfoInputs.cache
+C:\Users\Chest\Documents\Visual Studio 2019\Repository\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.AssemblyInfo.cs
+C:\Users\Chest\Documents\Visual Studio 2019\Repository\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.csproj.CoreCompileInputs.cache
+C:\Users\Chest\Documents\Visual Studio 2019\Repository\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Chest\Documents\Visual Studio 2019\Repository\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.RazorAssemblyInfo.cache
+C:\Users\Chest\Documents\Visual Studio 2019\Repository\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.RazorAssemblyInfo.cs
+C:\Users\Chest\Documents\Visual Studio 2019\Repository\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.TagHelpers.input.cache
+C:\Users\Chest\Documents\Visual Studio 2019\Repository\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.TagHelpers.output.cache
+C:\Users\Chest\Documents\Visual Studio 2019\Repository\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.RazorCoreGenerate.cache
+C:\Users\Chest\Documents\Visual Studio 2019\Repository\Pokedex\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Chest\Documents\Visual Studio 2019\Repository\Pokedex\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Chest\Documents\Visual Studio 2019\Repository\Pokedex\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Chest\Documents\Visual Studio 2019\Repository\Pokedex\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Chest\Documents\Visual Studio 2019\Repository\Pokedex\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Chest\Documents\Visual Studio 2019\Repository\Pokedex\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Chest\Documents\Visual Studio 2019\Repository\Pokedex\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Chest\Documents\Visual Studio 2019\Repository\Pokedex\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Chest\Documents\Visual Studio 2019\Repository\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.RazorTargetAssemblyInfo.cache
+C:\Users\Chest\Documents\Visual Studio 2019\Repository\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.RazorTargetAssemblyInfo.cs
+C:\Users\Chest\Documents\Visual Studio 2019\Repository\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.Views.pdb
+C:\Users\Chest\Documents\Visual Studio 2019\Repository\Pokedex\obj\Debug\netcoreapp3.1\staticwebassets\Pokedex.StaticWebAssets.Manifest.cache
+C:\Users\Chest\Documents\Visual Studio 2019\Repository\Pokedex\obj\Debug\netcoreapp3.1\staticwebassets\Pokedex.StaticWebAssets.xml
+C:\Users\Chest\Documents\Visual Studio 2019\Repository\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.dll
+C:\Users\Chest\Documents\Visual Studio 2019\Repository\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.pdb
+C:\Users\Chest\Documents\Visual Studio 2019\Repository\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.genruntimeconfig.cache
+C:\Users\Chest\Documents\Visual Studio 2019\Repository\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.csproj.CopyComplete
