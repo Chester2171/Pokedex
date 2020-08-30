@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Chest\\Documents\\Visual Studio 2019\\Repository\\Pokedex\\Pokedex.csproj",
+      "projectUniqueName": "C:\\Users\\Chest\\Documents\\GitHub\\Pokedex\\Pokedex\\Pokedex.csproj",
       "projectName": "Pokedex",
-      "projectPath": "C:\\Users\\Chest\\Documents\\Visual Studio 2019\\Repository\\Pokedex\\Pokedex.csproj",
+      "projectPath": "C:\\Users\\Chest\\Documents\\GitHub\\Pokedex\\Pokedex\\Pokedex.csproj",
       "packagesPath": "C:\\Users\\Chest\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Chest\\Documents\\Visual Studio 2019\\Repository\\Pokedex\\obj\\",
+      "outputPath": "C:\\Users\\Chest\\Documents\\GitHub\\Pokedex\\Pokedex\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Chest\\AppData\\Roaming\\NuGet\\NuGet.Config",
