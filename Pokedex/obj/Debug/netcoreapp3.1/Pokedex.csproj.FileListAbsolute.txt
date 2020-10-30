@@ -112,3 +112,4 @@ C:\Users\Chest\Documents\GitHub\Pokedex\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.
 C:\Users\Chest\Documents\GitHub\Pokedex\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.pdb
 C:\Users\Chest\Documents\GitHub\Pokedex\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.genruntimeconfig.cache
 C:\Users\Chest\Documents\GitHub\Pokedex\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.csproj.CopyComplete
+C:\Users\Chest\Documents\GitHub\Pokedex\Pokedex\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\Pokedex2171 - Web Deploy\profile.arm.json
